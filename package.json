@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-tc-less",
+  "version": "1.0.0",
+  "description": "`styleslint-tc-less`基于`stylelint-config-standard`配置，是所有前端开发者公认的前二的styleslint代码规范配置。加上本人认同的一些特质化规则，为less项目服务。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint",
+    "tc",
+    "less"
+  ],
+  "author": "hwj",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^16.2.1"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-config-standard-less": "^3.0.1",
+    "stylelint-prettier": "^5.0.0"
+  }
+}
